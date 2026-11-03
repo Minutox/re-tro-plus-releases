@@ -10,6 +10,15 @@
       "sha256": "0fbd38d8174d148938e3720a5b2b35ebda34ca25dd5e97e37b89fb23cb53a4bb",
       "url": "https://raw.githubusercontent.com/Minutox/re-tro-plus-releases/main/themes/Dragon-Ball-Aventura-Z.retrotheme",
       "preview": "https://raw.githubusercontent.com/Minutox/re-tro-plus-releases/main/themes/dragon-ball-preview.webp"
+    },
+    {
+      "id": "custom-harry-potter-hogwarts",
+      "name": "Harry Potter — Noite em Hogwarts",
+      "version": 1,
+      "bytes": 343144,
+      "sha256": "67c4dba21b1989b0a5df793f357067a82b30244b40ddc2e5a61f14a0ed81b464",
+      "url": "https://raw.githubusercontent.com/Minutox/re-tro-plus-releases/main/themes/Harry-Potter-Noite-em-Hogwarts.retrotheme",
+      "preview": "https://raw.githubusercontent.com/Minutox/re-tro-plus-releases/main/themes/harry-potter-preview.webp"
     }
   ]
 }
