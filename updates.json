@@ -1,8 +1,8 @@
 {
   "package": "br.com.retrodeck.launcher",
-  "versionCode": 20,
-  "versionName": "0.20-beta",
-  "apkUrl": "https://github.com/Minutox/re-tro-plus-releases/releases/download/v0.20-beta/Re-TRO-Plus-0.20-beta-busca-temas-midias.apk",
-  "sha256": "07e5b7cc924cb27f18de1c29e5fd715b9fe4f886b99e0c26f6d1356478208e27",
-  "bytes": 290239223
+  "versionCode": 21,
+  "versionName": "0.21-beta",
+  "apkUrl": "https://github.com/Minutox/re-tro-plus-releases/releases/download/v0.21-beta/Re-TRO-Plus-0.21-beta-busca-temas-midias.apk",
+  "sha256": "4cf7f83c04426ef3939dd3c007f08d7f1b00633a5f9f3353ceeef6f8d7fea048",
+  "bytes": 290239423
 }
