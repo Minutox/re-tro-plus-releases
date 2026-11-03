@@ -1,0 +1,15 @@
+{
+  "format": "re-tro-theme-gallery",
+  "formatVersion": 1,
+  "themes": [
+    {
+      "id": "custom-dragon-ball-adventure",
+      "name": "Dragon Ball • Aventura Z",
+      "version": 1,
+      "bytes": 314204,
+      "sha256": "0fbd38d8174d148938e3720a5b2b35ebda34ca25dd5e97e37b89fb23cb53a4bb",
+      "url": "https://raw.githubusercontent.com/Minutox/re-tro-plus-releases/main/themes/Dragon-Ball-Aventura-Z.retrotheme",
+      "preview": "https://raw.githubusercontent.com/Minutox/re-tro-plus-releases/main/themes/dragon-ball-preview.webp"
+    }
+  ]
+}
