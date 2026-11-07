@@ -1,8 +1,8 @@
 {
   "package": "br.com.retrodeck.launcher",
-  "versionCode": 26,
-  "versionName": "0.26-beta",
-  "apkUrl": "https://github.com/Minutox/re-tro-plus-releases/releases/download/v0.26-beta/Re-TRO-Plus-0.26-beta-controles.apk",
-  "sha256": "c8ac73a03b2d0a9794251a2d1a42840b74f163775caf34242359325a251e13f7",
-  "bytes": 290516364
+  "versionCode": 27,
+  "versionName": "0.27-beta",
+  "apkUrl": "https://github.com/Minutox/re-tro-plus-releases/releases/download/v0.27-beta/Re-TRO-Plus-0.27-beta-preparacao-temas.apk",
+  "sha256": "b153747f7e81cdf25c964019053a200d4c249bc51e1f7d0a95ced5c25c34b78a",
+  "bytes": 290527043
 }
